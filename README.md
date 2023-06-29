@@ -1,4 +1,4 @@
-# Title
+# Should ENIAC work with MAGIST?
 This is an analysis of the famous Magist dataset ...
 ## Subtitle
 ### Subtitle
