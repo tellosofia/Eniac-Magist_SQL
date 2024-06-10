@@ -1,8 +1,21 @@
-# **Should ENIAC work with MAGIST?**
+# Case Study: Eniac's Expansion to Brazil
 
-ENIAC, a Spanish online marketplace specializing in high-end Apple accessories, seeks to expand into Brazil. They're considering partnering with MAGIST, a Brazilian SaaS company offering centralized order management for local marketplaces. ENIAC aims to test the market and streamline operations through a 3-year agreement. However, concerns linger about MAGIST's compatibility with ENIAC's product line and delivery speed. Analysis of MAGIST's database is needed to address these concerns.
+## Background
+Eniac is an established e-commerce marketplace specializing in Apple-compatible accessories. Founded in Spain ten years ago, it has expanded to neighboring countries. The company is known for its quality products, competitive prices, and exceptional customer service.
 
-### **Skills and tools used**
-- SQL
-- Tableau
-- Data exploration and visualisation
+## Objectives
+The project aims to explore Eniac's potential expansion into the Brazilian market. Key objectives include:
+- Analyzing data from Magist, a Brazilian software company, to assess market feasibility.
+- Providing insights on compatibility between Magist's services and Eniac's product catalogue.
+- Evaluating the impact of Magist's delivery services on Eniac's commitment to fast deliveries.
+
+## Methodology & Tools
+The project will involve:
+- Utilizing **SQL** to explore Magist's database.
+- Analyzing data using **Tableau** for visualization and insights generation.
+- Formulating recommendations based on data findings to guide Eniac's expansion strategy.
+
+## Key Concerns
+- Compatibility of Magist's services with Eniac's product catalogue.
+- The impact of Magist's delivery services on Eniac's commitment to fast deliveries.
+
