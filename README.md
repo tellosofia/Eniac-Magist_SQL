@@ -5,7 +5,7 @@ Eniac is an established e-commerce marketplace specializing in Apple-compatible 
 
 ## Objectives
 The project aims to explore Eniac's potential expansion into the Brazilian market. Key objectives include:
-- Analyzing data from Magist, a Brazilian software company, to assess market feasibility.
+- Analyzing data from Magist, a Brazilian SaaS company, to assess market feasibility.
 - Providing insights on compatibility between Magist's services and Eniac's product catalogue.
 - Evaluating the impact of Magist's delivery services on Eniac's commitment to fast deliveries.
 
